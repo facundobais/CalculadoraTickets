@@ -1,0 +1,44 @@
+body {
+    background-color: #AFB3B7 !important;
+    
+  }
+h1 {
+    background-color: #0D1F23; /* Fondo */
+    color: white; 
+    padding: 10px; 
+    text-align: center; 
+    line-height: 100px; 
+  }
+.custom-bg {
+    background-color: #2D4A53;
+  }
+.custom-bg .nav-link {
+    color: #AFB3B7 !important;
+  }
+
+.container {
+  margin-bottom: 1em; 
+  padding: 10px; 
+  border: 1px solid #ccc; 
+  border-radius: 5px; 
+  text-align: center;}
+.total {
+  font-weight: bold; 
+  margin-top: 1em;}
+button {
+  padding: 10px 20px; 
+  background-color: #2D4A53; 
+  color: white; 
+  border: none; 
+  border-radius: 5px;}
+button:hover {
+  background-color: #0D1F23;}
+.flex {
+  display: flex; 
+  justify-content: space-around;}
+.flex div {
+  width: 45%;}
+
+#email {
+    width: 35%;
+}
